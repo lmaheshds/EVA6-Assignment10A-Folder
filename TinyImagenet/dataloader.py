@@ -1,7 +1,7 @@
 import torch
 import torchvision
 
-from album_transform import albumentations_transforms
+from albumentationtest import albumentations_transforms
 from utils import has_cuda, imshow
 
 class PrepareData(object):
